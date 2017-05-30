@@ -2,7 +2,6 @@ theme: jekyll-theme-slate
 defaults:
   -
     scope:
-      path: "projects"
       type: "pages"
     values:
       layout: "project"
