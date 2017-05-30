@@ -1,9 +1,1 @@
 theme: jekyll-theme-slate
-defaults:
-  -
-    scope:
-      type: "pages"
-    values:
-      layout: "project"
-      author: "Team 3"
-      category: "project"
