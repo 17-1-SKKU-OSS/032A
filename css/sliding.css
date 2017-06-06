@@ -92,4 +92,10 @@ transition: margin 300ms cubic-bezier(0.17, 0.04, 0.03, 0.94);
 #toggle:checked + label:after {
   content:"Close"
 }
-
+#contact
+{
+    display: none;
+    background: grey;
+    color: #FFF;
+    padding: 10px;
+}
