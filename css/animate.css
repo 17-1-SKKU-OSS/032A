@@ -14,6 +14,9 @@ Copyright (c) 2015 Daniel Eden
 	transition-duration: .5s;
 	transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
 }
+.slider.closed {
+	max-height: 0;
+}
 
 .animated {
   -webkit-animation-duration: 1s;
